@@ -10,3 +10,6 @@ The project includes:
 
 ## How to run the script
 
+## Author
+Davie Slocum  
+BIN 601
