@@ -29,4 +29,4 @@ The repository includes:
 - Streamlit deployment
 
 ## Published app link
-[](https://agp-survey-scraper-tddpdvspxqomdyb5yfdgyz.streamlit.app/)
+(https://agp-survey-scraper-tddpdvspxqomdyb5yfdgyz.streamlit.app/)
