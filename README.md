@@ -28,4 +28,5 @@ The repository includes:
 - README documentation
 - Streamlit deployment
 
-## How to run the script
+## Published app link
+[](https://agp-survey-scraper-tddpdvspxqomdyb5yfdgyz.streamlit.app/)
